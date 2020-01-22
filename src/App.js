@@ -58,7 +58,7 @@ function App() {
        <Login />
       </Route> */}
         {/* <Route path="/edit/:id" component={EditExercise} /> */}
-        <Route path="/create">
+        <Route path="/">
           <Header />
           <CreatePost onAdd={addItem} />
           {items.map((item, index) => {
@@ -74,9 +74,9 @@ function App() {
           })}
           <Footer />
         </Route>
-        {/* <Route path="/user">
+        <Route path="/user">
       <CreateUser />
-      </Route> */}
+      </Route>
       </div>
     </Router>
   );

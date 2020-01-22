@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/keep-aap-part-3/static/css/main.57057ee8.chunk.css",
+    "main.js": "/keep-aap-part-3/static/js/main.5bdcf28f.chunk.js",
+    "main.js.map": "/keep-aap-part-3/static/js/main.5bdcf28f.chunk.js.map",
+    "runtime-main.js": "/keep-aap-part-3/static/js/runtime-main.b791a367.js",
+    "runtime-main.js.map": "/keep-aap-part-3/static/js/runtime-main.b791a367.js.map",
+    "static/js/2.721cc876.chunk.js": "/keep-aap-part-3/static/js/2.721cc876.chunk.js",
+    "static/js/2.721cc876.chunk.js.map": "/keep-aap-part-3/static/js/2.721cc876.chunk.js.map",
+    "index.html": "/keep-aap-part-3/index.html",
+    "precache-manifest.22db4865630c58234a735ee15abc3e5f.js": "/keep-aap-part-3/precache-manifest.22db4865630c58234a735ee15abc3e5f.js",
+    "service-worker.js": "/keep-aap-part-3/service-worker.js",
+    "static/css/main.57057ee8.chunk.css.map": "/keep-aap-part-3/static/css/main.57057ee8.chunk.css.map",
+    "static/js/2.721cc876.chunk.js.LICENSE": "/keep-aap-part-3/static/js/2.721cc876.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b791a367.js",
+    "static/js/2.721cc876.chunk.js",
+    "static/css/main.57057ee8.chunk.css",
+    "static/js/main.5bdcf28f.chunk.js"
+  ]
+}
